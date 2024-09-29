@@ -14,4 +14,5 @@ This React application, named MovieLand, is a movie search platform that interac
 **Movie Cards:** Each movie result is displayed as a card, using a separate MovieCard component, allowing for neat and organized display of the movie data.
 
 **-----------------------------------------------**
+
 **Note:** I created this MovieLand application by following a YouTuber channel called JavaScript Mastery, who guided me step by step through the process.
